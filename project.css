@@ -1,0 +1,92 @@
+
+
+.logo img{
+    height:20px;
+    width:100px;
+    object-fit:fill;
+    padding-left:15px;
+
+
+}
+.headerstyle{
+    display:flex;
+    position:fixed;
+    background-color:white;
+    top:0;
+    left:0;
+    right:0;
+    height:60px;
+    width:1600px;
+    align-items: center;
+    padding-left:160px;
+    border-bottom-color:rgb(15, 138, 195);
+    border-bottom-width:3px;
+    border-bottom-style:solid;
+
+
+    
+}
+.marketingsolutions{
+    padding-left:15px;
+    color:gray;
+    font-size:16px;
+}
+.create-button{
+    margin-left:800px;
+}
+.adbutton{
+    background-color:white;
+    color:rgb(15, 138, 195);
+    border-color:rgb(15, 138, 195);
+    border-style:solid;
+    font-weight:bold;
+    padding-left:18px;
+    padding-right:18px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius:2px;
+}
+.upload-icon img{
+    height:25px;
+    width:20px;
+    padding-left:20px;
+ 
+}
+.linkedin-pages img{
+    width:1520px;
+    height:400px;
+    padding-top:50px;
+    margin-left:0px;
+    
+}
+
+
+
+
+.background-text{
+    margin-top:-300px;
+    margin-left:300px;
+}
+.linkedin-text{
+    font-size:60px;
+    font-weight:100;
+}
+.professional-network{
+    color:gray;
+    font-size:23px;
+    width:400px;
+    margin-top:20px;
+    margin-bottom:15px;
+}
+.page-button{
+    color:white;
+    background-color: rgb(53, 78, 205);
+    font-weight:bold;
+    font-size:13px;
+    padding-left:35px;
+    padding-right:35px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border:none;
+    border-radius:2px;
+}
