@@ -52,6 +52,10 @@
     padding-left:20px;
  
 }
+.mainstyle{
+    width:1520px;
+    height:500px;
+}
 .linkedin-pages img{
     width:1520px;
     height:400px;
@@ -65,7 +69,7 @@
 
 .background-text{
     margin-top:-300px;
-    margin-left:300px;
+    margin-left:200px;
 }
 .linkedin-text{
     font-size:60px;
@@ -90,3 +94,24 @@
     border:none;
     border-radius:2px;
 }
+
+.row2 .establish{
+    font-size:40px;
+    width:800px;
+    margin-left:200px;
+    
+}
+.img-flex{
+    display:flex;
+    flex-direction: row;
+}
+ .moreclicks img{
+    width:350px;
+    padding-right:30px;
+    margin-top:60px;
+ }
+ .img1 .content{
+    width:300px;
+    font-size:20px;
+    line-height:30px;
+ }
