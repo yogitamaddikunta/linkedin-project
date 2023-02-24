@@ -123,11 +123,14 @@
     width:1500px;
 
  }
+ 
  .row3 .see-how-text{
     margin-left:250px;
     font-size:40px;
-    width:650px;
+    margin-top:20px;
     margin-bottom:35px;
+    padding-top:30px;
+
  }
  .row3 .getting-started-text{
     margin-left:250px;
@@ -159,5 +162,46 @@
  .text-list li{
     margin-top:50px;
     line-height:4px;
+   
 
  }
+
+ .row4{
+    margin-top:116px;
+    background-color: rgba(232, 222, 198,0.6);
+    height:450px;
+
+   
+ }
+ .know-class{
+    padding-left:250px;
+    padding-top:70px;
+    font-size:18px;
+    display:flex;
+
+ 
+
+
+ }
+ .know-text{
+    font-size:30px;
+    font-weight:bold;
+
+ }
+ .text-list-one{
+    margin-top:40px;
+  
+ }
+.text-list-one li{
+  width:400px;
+    font-size:16px;
+    padding-bottom:5px;
+    line-height:30px;
+
+}
+.know-class-text{
+    padding-right:100px;
+}
+.follower img{
+    margin-top:-45px;
+}
