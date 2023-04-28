@@ -1,0 +1,103 @@
+
+.advertising{
+    display:inline-flex;
+    margin-left:200px;
+    width:1200px;
+    height:500px;
+    background-color:whitesmoke;
+    border-bottom: 2px solid rgb(15, 138, 195);
+
+
+}
+.objective{
+    margin-right:40px;
+    margin-left:20px;
+    
+}
+.objective .head{
+    margin-bottom:10px;
+    color:black;
+
+}
+.objective div{
+    margin-bottom: 30px;
+
+}
+.objective a{
+    text-decoration: none;
+    color:rgb(15, 138, 195);
+    font-weight: 600;
+   
+}
+.objective p{
+    margin-top: -10px;
+    width:350px;
+    color:black;
+}
+.objective .sign {
+    color:rgb(15, 138, 195);
+    margin-top:120px;
+}
+
+
+.Products{
+    margin-right:20px;
+    color:black;
+    margin-left:40px;
+}
+.Products ul li{
+    width:200px;
+    margin-bottom: 1px;
+    margin-top:-15px;
+}
+.Products li a{
+    text-decoration: none;
+    color:rgb(15, 138, 195);
+   
+    font-weight: 600;
+
+}
+.Products h3{
+    margin-left:60px;
+}
+
+.Top-products .sign{
+    color:rgb(15, 138, 195);
+    margin-left:80px;
+    font-weight: 600;
+    margin-top:90px;
+}
+
+
+.Top-products ul{
+    display:block;
+
+}
+
+
+
+
+
+.Features ul li{
+    list-style: none;
+    margin-bottom: 1px;
+    margin-top:-15px;
+
+    
+}
+
+.Features li a{
+    text-decoration: none;
+    color:rgb(15, 138, 195);
+    font-weight: 600;
+}
+.Features h3{
+    margin-left:60px;
+    color:black;
+}
+.Features ul{
+    display:block;
+}
+.Features ul li{
+    width:200px;
+}

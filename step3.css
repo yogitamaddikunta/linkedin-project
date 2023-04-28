@@ -1,0 +1,25 @@
+
+.inside-format{
+    display:flex;
+    margin-left:200px;
+    margin-top:50px;
+    
+}
+.partA .parta{
+    font-size: 30px;
+    margin-bottom:20px;
+}
+.partA .partb{
+    font-size: 18px;
+    margin-bottom:20px;
+    width:400px;
+}
+.partA .partc{
+    font-size: 18px;
+    margin-bottom:20px;
+}
+
+.partB img{
+    padding-left:100px;
+}
+

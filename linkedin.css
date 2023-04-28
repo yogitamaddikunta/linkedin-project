@@ -1,0 +1,107 @@
+.sub-menu-1{
+    display:none;
+}
+.menu-bar ul li:hover .sub-menu-1 {
+    display:block;
+    position:absolute;
+    background-color: whitesmoke ;
+    margin-left:-55px;
+    margin-top:20px;
+    border-bottom: 2px solid rgb(15, 138, 195);
+}
+.menu-bar ul li:hover .sub-menu-1 ul{
+    display:block;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li{
+    width:180px;
+    border-radius: 0;
+    font-size:16px;
+    margin-bottom:-10px;
+
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child{
+    border-bottom:none;
+    margin-bottom:20px;
+}
+
+.menu-bar .sub-menu-1 ul li{
+    margin-left:-30px;
+    margin-bottom:-30px;
+    text-align: left;
+    background-color: transparent;
+    
+}
+
+
+/* resources */
+.sub-menu-2{
+    display:none;
+}
+.menu-bar ul li:hover .sub-menu-2 {
+    display:block;
+    position:absolute;
+    background-color: whitesmoke ;
+    margin-left:-55px;
+     margin-top:20px;
+     border-bottom: 2px solid rgb(15, 138, 195);
+}
+.menu-bar ul li:hover .sub-menu-2 ul{
+    display:block;
+}
+.menu-bar ul li:hover .sub-menu-2 ul li{
+    width:180px;
+    border-radius: 0;
+    font-size:16px;
+    margin-bottom:-10px;
+
+}
+
+.menu-bar ul li:hover .sub-menu-2 ul li:last-child{
+    border-bottom:none;
+    margin-bottom:20px;
+}
+
+.menu-bar .sub-menu-2 ul li{
+    margin-left:-30px;
+    margin-bottom:-30px;
+    text-align: left;
+    background-color: transparent;
+    
+}
+
+/* customer stories  */
+.sub-menu-3{
+    display:none;
+}
+.menu-bar ul li:hover .sub-menu-3 {
+    display:block;
+    position:absolute;
+    background-color: whitesmoke ;
+    margin-left:-55px;
+    border-bottom: 2px solid rgb(15, 138, 195);
+    margin-top:20px;
+}
+.menu-bar ul li:hover .sub-menu-3 ul{
+    display:block;
+}
+.menu-bar ul li:hover .sub-menu-3 ul li{
+    width:180px;
+    border-radius: 0;
+    font-size:16px;
+    margin-bottom:-10px;
+
+}
+
+.menu-bar ul li:hover .sub-menu-3 ul li:last-child{
+    border-bottom:none;
+    margin-bottom:20px;
+}
+
+.menu-bar .sub-menu-3 ul li{
+    margin-left:-30px;
+    margin-bottom:-30px;
+    text-align: left;
+    background-color: transparent;
+    
+}
