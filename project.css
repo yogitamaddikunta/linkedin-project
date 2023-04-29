@@ -37,9 +37,7 @@ body{
 }
 
 /* lists */
-.menu-bar{
-    
-}
+
 .menu-bar ul{
     display:inline-flex;
     list-style:none;
