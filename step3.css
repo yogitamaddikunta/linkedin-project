@@ -23,3 +23,24 @@
     padding-left:100px;
 }
 
+
+.partc:hover{
+    text-decoration: underline;
+    color:#0073b1;
+
+}
+
+.adformat .inside-format .partA .partc a{
+    color:#0073b1;
+    text-decoration: none;
+
+
+}
+
+
+.adformat .inside-format .partA .partc a:hover{
+    color:#0073b1;
+    text-decoration:underline;
+
+
+}

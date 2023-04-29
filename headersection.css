@@ -1,0 +1,56 @@
+.joinlogo{
+    display:inline-flex;
+}
+
+.joinlogo{
+    width:max-content;
+    font-size:12px;
+    position:relative;
+    cursor:pointer;
+    
+}
+.joinlogo::after{
+    content:"";
+    position:absolute;
+    bottom:-5px;
+    height:2px;
+    width:100%;
+    left:0;
+    background-color:rgb(15, 138, 195);
+    transition:0.3s;
+    transition-timing-function: ease-in-out;
+    transform: scaleX(0);
+    
+}
+.joinlogo:hover::after{
+    transform: scaleX(1)
+}
+
+
+
+/* advertising hover */
+
+
+.active{
+    width:auto;
+    font-size:12px;
+    position:relative;
+    cursor:pointer;
+    
+}
+.active::after{
+    content:"";
+    position:absolute;
+    bottom:0px;
+    height:2px;
+    width:100px;
+    left:0;
+    background-color:rgb(15, 138, 195);
+    transition:0.3s;
+    transition-timing-function: ease-in-out;
+    transform: scaleX(0);
+    
+}
+.active:hover::after{
+    transform: scaleX(1)
+}

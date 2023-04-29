@@ -22,3 +22,15 @@
     padding-left:100px;
 }
 
+
+.partc:hover{
+    text-decoration: underline;
+    color:#0073b1;
+
+}
+
+.inside-obj .partA .partc a{
+    color:#0073b1;
+
+
+}

@@ -24,3 +24,24 @@
     padding-left:100px;
 }
 
+
+.partc:hover{
+    text-decoration: underline;
+    color:#0073b1;
+
+}
+
+.budget .inside-budget .partA .partc a{
+    color:#0073b1;
+    text-decoration: none;
+    
+}
+
+
+.budget .inside-budget .partA .partc a:hover{
+    color:#0073b1;
+    text-decoration:underline;
+
+
+    
+}
